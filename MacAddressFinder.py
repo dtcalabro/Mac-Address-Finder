@@ -3,7 +3,7 @@ This program finds the mac address of a device in question that is on the same n
 """
 from getmac import get_mac_address, getmac
 
-# Main loop
+# Main loop where the magic happens
 while True:
     # Constants
     ip_mac = get_mac_address(ip = '192.168.0.1')

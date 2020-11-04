@@ -1,5 +1,5 @@
 """
-This program finds the mac address of a device in question that is on the same network as you
+This program finds the mac address of a device in question that is on the same network as you.
 """
 from getmac import get_mac_address, getmac
 
